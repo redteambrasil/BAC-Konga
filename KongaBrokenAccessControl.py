@@ -2,7 +2,7 @@
 # -- coding: utf-8 -
 
 # Exploit Title: KONGA 0.14.9 - Broken Acces Control
-# Date: 24/08/2002
+# Date: 24/08/2022
 # Exploit Author: Claudemir Nunes / Maurício Santos (@RedTeamBrasil)
 # Team Homepage: https://github.com/redteambrasil/BAC-Konga/
 # Software Link: https://github.com/pantsel/konga/archive/refs/tags/0.14.9.zip
